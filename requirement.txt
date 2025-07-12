@@ -1,6 +1,0 @@
-flask
-numpy
-panda
-scikit-learn
-requests
-pickle
